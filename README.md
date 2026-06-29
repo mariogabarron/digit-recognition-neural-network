@@ -103,7 +103,7 @@ The main purpose is educational: to connect programming, calculus, linear algebr
 | `red_neuronal.py`                  | Implements forward propagation, cost function, backpropagation, gradient descent, training and prediction |
 | `interfaz.py`                      | Graphical interface to draw digits and test the neural network                                            |
 | `entrenamiento_25x25_correcto.txt` | Training dataset for digits represented as 25x25 grids                                                    |
-| `Memoria/MemoriaRedNeuronal.pdf`   | Full project report with mathematical explanations                                                        |
+| `MemoriaRedNeuronal.pdf`           | Full project report with mathematical explanations                                                        |
 
 ---
 
