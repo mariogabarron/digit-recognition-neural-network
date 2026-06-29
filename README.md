@@ -246,10 +246,10 @@ brew install python-tk
 
 ## Project Report
 
-A full written report is included in the repository:
+A full written report (in Spanish) is included in the repository:
 
 ```text
-Memoria/MemoriaRedNeuronal.pdf
+MemoriaRedNeuronal.pdf
 ```
 
 The report explains the mathematical foundations of the project, including:
