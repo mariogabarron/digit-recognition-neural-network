@@ -65,4 +65,4 @@ brew install python-tk
 
 ## Nota
 
-Este proyecto se ha desarrollado con intención educativa. No utiliza librerías de machine learning como TensorFlow, Keras o PyTorch, precisamente para implementar manualmente el funcionamiento interno de la red.
+Este proyecto se ha desarrollado con intención de aprendizaje y como proyecto personal. No utiliza librerías de machine learning como TensorFlow, Keras o PyTorch, precisamente para implementar manualmente el funcionamiento interno de la red.
