@@ -7,6 +7,7 @@ The goal of this project is not to use high-level machine learning frameworks, b
 > [!NOTE]
 > This is a personal educational project built to understand how neural networks work internally, without relying on libraries such as TensorFlow, Keras or PyTorch.
 
+![Digit Recognition Neural Network](assets/banner.png)
 ---
 
 ## Overview
