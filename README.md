@@ -91,8 +91,7 @@ The main purpose is educational: to connect programming, calculus, linear algebr
 ├── entrenamiento_25x25_correcto.txt
 ├── requirements.txt
 ├── README.md
-└── Memoria
-    └── MemoriaRedNeuronal.pdf
+└── MemoriaRedNeuronal.pdf
 ```
 
 ### Main files
